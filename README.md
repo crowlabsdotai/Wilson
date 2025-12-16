@@ -1,4 +1,4 @@
-<img src="wilson-enhanced.png" width="64"/>
+<img src="./wilson.png" width="64"/>
 
 Wilson takes its name from the iconic character "Wilson" in the movie *Cast Away*. In the film, Wilson was a volleyball that served as the loyal companion to Tom Hanks' character, providing comfort and companionship despite being a simple object.
 
@@ -6,7 +6,7 @@ Wilson, the AI voice assistant, runs on PCs and laptops, leveraging the CPU’s 
 
 # Architecture:
 
-<img src="Architecture.jpeg" width="128"/>
+<img src="./Architecture.png" width="128"/>
 
 Wilson's architecture is modular, built on containerized services that handle different tasks such as voice-to-text, text-to-speech, and language processing. It allows flexibility in configuration and deployment, making it easy for developers to switch components or add new services.
 
