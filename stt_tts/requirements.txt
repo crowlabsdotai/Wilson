@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+transformers
+torch
+openai-whisper
+datasets
+soundfile
+numpy
+pysoundfile
+sentencepiece
+espeakng
+onnxruntime
+onnxruntime_extensions
+pydub
+pyannote.audio[separation]==3.3.0
