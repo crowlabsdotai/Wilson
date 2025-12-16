@@ -119,9 +119,13 @@ Wilson is an open-source project licensed under the MIT License. Feel free to us
 We welcome contributions! If you're interested in contributing to Wilson, please follow these steps:
 
 1- Fork the repository.
+
 2- Create a new branch (git checkout -b feature/YourFeature).
+
 3- Commit your changes (git commit -am 'Add some feature').
+
 4- Push the branch (git push origin feature/YourFeature).
+
 5- Open a pull request and describe your changes.
 
 # Contact:
